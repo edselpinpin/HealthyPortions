@@ -5,4 +5,4 @@ A fictitious company website that specialized in premium food delivery service d
 
 Written using HTML5 and Bootsrap 4
 
-Still in work in progress additional functionality added in the future.
+Note: The website is still in works additional features will be added in the future. 
