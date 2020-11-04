@@ -1,0 +1,187 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+        color: white;
+      
+    background-image: linear-gradient(rgba(98, 93, 93, 0.555),rgba(10, 3, 3, 0.808),rgba(8, 0, 0, 0.918)); 
+ 
+    background-size: cover;
+    background-position: center;
+  
+    /* height: 100vh; */
+   
+}
+
+header{
+   /* background-image: linear-gradient(rgba(85, 83, 83, 0.6),rgba(0, 0, 0, 7)), url(/img/back6.jpg);   */
+  
+
+}
+
+
+
+
+
+
+.navbar {
+   
+   background-image: linear-gradient(rgba(98, 93, 93, 0.555),rgba(10, 3, 3, 0.808),rgba(8, 0, 0, 0.918));
+    color: white;
+    border-bottom: 0.5mm solid white; 
+
+    
+}  
+
+.navbar ul li  a:hover {
+    color: white;
+    background:  rgba(0, 0, 0, 0.5);
+}
+
+.nav-item{
+    font-size: 15pt;
+}
+
+
+.site-footer {
+        background-image: linear-gradient(rgba(98, 93, 93, 0.555),rgba(10, 3, 3, 0.808),rgba(8, 0, 0, 0.918));
+        color: #c4c5c7;
+        padding: 10px 0;
+   
+   
+}
+
+.footerhdr{
+    color: orange;
+}   
+
+.hero-text-box {
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 70%;
+    color: white;
+    transform: translate(-50%,-50%);
+}
+
+.chef1 img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+}
+.author-box {
+    padding: 30px;
+    border-top: 10px solid cornsilk;
+   
+  
+}
+
+.chef2 img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+}
+
+.chef1-text {
+    font-size: 30px;
+     margin-bottom: 26px;
+     padding-left: 10px;
+     float: left;
+     margin-top: 35px;
+}
+
+
+.chef3 img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+}
+
+/* how to steps */
+.works-step div {
+    color: white;
+    font-size: 150%;
+    height: 54px;
+    width: 54px;
+    border: 2px solid white;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin-top: -15px;
+    margin-right: 25px;
+    float: left;
+    padding: 5px;
+}
+
+.steps-box {
+    margin-top: 30px;
+}
+.works-step {
+    margin-bottom: 30px;
+}
+
+.main-how {
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.how-btn-sign{
+    margin-left: 10px;;
+}
+/* 
+.work-cont-step {
+    margin-left: 130px;
+ }
+ */
+
+ .main-cont-sign{
+     margin-top: 30px;
+     margin-bottom: 30px;
+}
+.package{
+ 
+  border: 0.5mm solid white; 
+    
+}
+
+.btn-package{
+   margin-left: 60px;
+}
+.how-steps{
+    margin-bottom: 30px;
+
+}
+/*
+.menu-options .card{
+   
+  
+   margin-top: 30px;
+   margin-bottom: 30px;
+   
+
+}
+.menu-options{
+   margin-top: 30px;
+   margin-bottom: 30px;
+ 
+ }
+ */
+
+ .order-btn {
+     background-color: orange;
+ }
+
+ 
+ 
+ 
+
+
+
+
+
+
+
