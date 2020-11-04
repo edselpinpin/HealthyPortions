@@ -1,8 +1,6 @@
-@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
-
 
 body{
-    font-family: 'Poppins', sans-serif;
+     font-family: 'Nunito Sans', sans-serif;
         color: white;
       
     background-image: linear-gradient(rgba(98, 93, 93, 0.555),rgba(10, 3, 3, 0.808),rgba(8, 0, 0, 0.918)); 
@@ -13,17 +11,6 @@ body{
     /* height: 100vh; */
    
 }
-
-header{
-   /* background-image: linear-gradient(rgba(85, 83, 83, 0.6),rgba(0, 0, 0, 7)), url(/img/back6.jpg);   */
-  
-
-}
-
-
-
-
-
 
 .navbar {
    
@@ -40,7 +27,7 @@ header{
 }
 
 .nav-item{
-    font-size: 15pt;
+    font-size: 18pt;
 }
 
 
@@ -155,21 +142,6 @@ header{
     margin-bottom: 30px;
 
 }
-/*
-.menu-options .card{
-   
-  
-   margin-top: 30px;
-   margin-bottom: 30px;
-   
-
-}
-.menu-options{
-   margin-top: 30px;
-   margin-bottom: 30px;
- 
- }
- */
 
  .order-btn {
      background-color: orange;
