@@ -1,5 +1,6 @@
 # HealthyPortions
 
+Live Demo -> https://edselpinpin.github.io/HealthyPortions/dist/index.html
 
 A fictitious company website that specaized in premium food delivery service delivered at your home. 
 
