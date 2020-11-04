@@ -1,5 +1,5 @@
 # HealthyPortions
-Live Demo -> https://healthyoptions.netlify.app
+Live Demo -> https://healthyportions.netlify.app
 
 A fictitious company website that specialized in premium food delivery service delivered to your home ready to eat.  Available via monthly subscription.
 
